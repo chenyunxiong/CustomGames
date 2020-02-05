@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: ab6d5e8db9f72bf43944757ce5191ad3
+timeCreated: 1468487397
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: appicon_0
+    21300002: appicon_1
+    21300004: appicon_2
+    21300006: appicon_3
+    21300008: appicon_4
+    21300010: appicon_5
+    21300012: appicon_6
+    21300014: appicon_7
+    21300016: appicon_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: appicon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -135}
+        - {x: 1, y: -140}
+        - {x: 5, y: -149}
+        - {x: 21, y: -165}
+        - {x: 30, y: -169}
+        - {x: 33, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: -153}
+        - {x: 167, y: -151}
+        - {x: 170, y: -144}
+        - {x: 170, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 144, y: -170}
+        - {x: 151, y: -167}
+        - {x: 164, y: -154}
+    - name: appicon_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 0}
+        - {x: 21, y: -3}
+        - {x: 19, y: -6}
+        - {x: 18, y: -6}
+        - {x: 5, y: -19}
+        - {x: 1, y: -28}
+        - {x: 1, y: -30}
+        - {x: 0, y: -32}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: 0}
+    - name: appicon_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 340
+        width: 170
+        height: 170
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154, y: -6}
+        - {x: 153, y: -6}
+        - {x: 151, y: -3}
+        - {x: 144, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -170}
+        - {x: 170, y: -170}
+        - {x: 170, y: -26}
+        - {x: 167, y: -19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
